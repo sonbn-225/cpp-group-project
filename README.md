@@ -10,6 +10,7 @@ Dự án được thiết kế với mục đích học tập và minh họa cá
 
 * *Bùi Ngọc Sơn - Phân tích yêu cầu, Thiết kế chính, Review code*
 * *Nguyễn Đức Bình - hoàn thiện 2 hàm để tạo dựng dự án
+* *Ngô Thế Quang - Kiểm thử hoặc Gỡ lỗi,hoàn thiện 2 hàm để tạo dựng dự án*
 ## 3. Phân tích và Đặc tả Chức năng
 
 Hệ thống bao gồm các chức năng chính sau:
