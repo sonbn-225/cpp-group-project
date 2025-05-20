@@ -8,8 +8,6 @@ Dự án được thiết kế với mục đích học tập và minh họa cá
 
 ## 2. Thành viên tham gia dự án
 
-Đây là một dự án mẫu được phát triển dựa trên yêu cầu mô tả.
-*(Nếu bạn làm theo nhóm, hãy cập nhật thông tin thành viên và phân công tại đây. Ví dụ:*
 * *Bùi Ngọc Sơn - Phân tích yêu cầu, Thiết kế chính, Review code*
 
 ## 3. Phân tích và Đặc tả Chức năng
