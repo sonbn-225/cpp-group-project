@@ -9,7 +9,7 @@ Dự án được thiết kế với mục đích học tập và minh họa cá
 ## 2. Thành viên tham gia dự án
 
 * *Bùi Ngọc Sơn - Phân tích yêu cầu, Thiết kế chính, Review code*
-* *Nguyễn Đức Bình - hoàn thiện 2 hàm để tạo dựng dự án
+* *Nguyễn Đức Bình - hoàn thiện 2 hàm để tạo dựng dự án*
 * *Ngô Thế Quang - Kiểm thử hoặc Gỡ lỗi, hoàn thiện 2 hàm để tạo dựng dự án*
 * *Bùi Đức Tâm -  Thiết kế triển khai thông số Wallet*
 ## 3. Phân tích và Đặc tả Chức năng
