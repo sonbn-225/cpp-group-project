@@ -108,7 +108,9 @@ Hệ thống được thiết kế để cung cấp các chức năng cốt lõi
 ### 4.2. Cách biên dịch chương trình
 
 **Cách 1: Sử dụng CMake với CLion (Khuyến nghị)**
-1.  **Chuẩn bị thư viện:** Đảm bảo bạn đã đặt `json.hpp` ở thư mục gốc và `cotp.h` trong `PROJECT_ROOT/libs/COTP/`.
+![image](https://github.com/user-attachments/assets/9896a937-dcd1-48ca-a85c-3405312cfc44)
+
+1.  **Chuẩn bị thư viện:** Đảm bảo bạn đã đặt `json.hpp` ở thư mục gốc.
 2.  **Mở dự án:** Mở thư mục gốc của dự án (nơi chứa `CMakeLists.txt`) bằng CLion.
 3.  **Tải dự án CMake:** CLion sẽ tự động phát hiện và tải `CMakeLists.txt`. Nếu có thông báo yêu cầu "Reload CMake Project", hãy chấp nhận.
 4.  **Biên dịch:**
